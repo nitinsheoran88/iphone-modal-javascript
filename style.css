@@ -30,7 +30,7 @@ body {
 }
 .box1 img{
     width: 200px;
-  
+    border-radius: 10px;
 }
 .button{
     display: inline-block;
@@ -64,14 +64,14 @@ body {
 }
 .box2 img{
        height: 100%;
-    
+       border-radius: 10px;
 }
 .close{
-    color: rgb(255, 0, 0);
-    font-size: 60px;
+    color: black;
+    font-size: 30px;
     position: absolute;
     top: 0;
-    right: 23px;
+    right: 10px;
     /* background-color: rgb(255, 255, 255); */
     /* border-radius: 10px; */
 
